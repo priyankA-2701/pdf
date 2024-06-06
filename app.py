@@ -1,4 +1,4 @@
-!pip install streamlit_extras
+
 #credit: https://youtu.be/bupx08ZgSFg?si=8vqxghSl5k1TfySZ
 import streamlit as st
 from langchain_core.messages import AIMessage, HumanMessage
